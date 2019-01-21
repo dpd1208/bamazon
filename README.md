@@ -7,7 +7,7 @@ Using inquirer, the application will ask the customer what product they would li
 
 ## Steps to running the app
 1. Run the app using node bamazonCustomer.js to review a list of available products
-![alt text](/images/node_cli_bamazon.PNG  "Logo Title Text 1")
+![alt text](/images/node_CLI_bamazon.PNG  "Logo Title Text 1")
 
 2. When prompted, enter the product ID and amount desired to get order confirmation
 ![alt text](/images/bamazon_order.PNG  "Logo Title Text 1")
