@@ -13,7 +13,7 @@ Using inquirer, the application will ask the customer what product they would li
 ![alt text](/images/bamazon_order.PNG  "Logo Title Text 1")
 
 3. If amount desired exceed inventory available, order will be rejected
-![alt text](/images/bamazon_order.PNG  "Logo Title Text 1")
+![alt text](/images/bamazon_low_inventory.PNG  "Logo Title Text 1")
 
 ## Technologies
 -The inventory information is stored in a MySQL database. 
