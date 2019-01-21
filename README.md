@@ -15,6 +15,8 @@ Using inquirer, the application will ask the customer what product they would li
 3. If amount desired exceed inventory available, order will be rejected
 ![alt text](/images/bamazon_low_inventory.PNG  "Logo Title Text 1")
 
+4. When prompted, type "n" to exit Bamazon
+
 ## Technologies
 -The inventory information is stored in a MySQL database. 
 -Inquirer package is used for customer inputs.
